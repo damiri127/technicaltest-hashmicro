@@ -1,0 +1,22 @@
+{
+  "name": "technicaltest-hashmicro",
+  "version": "1.0.0",
+  "description": "Repo ini buat teknikal test di Hashmicro",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiri127/technicaltest-hashmicro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiri127/technicaltest-hashmicro/issues"
+  },
+  "homepage": "https://github.com/damiri127/technicaltest-hashmicro#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
